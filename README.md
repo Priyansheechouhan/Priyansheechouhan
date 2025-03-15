@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Priyanshee Chouhan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansheechouhan&label=Profile%20views&color=0e75b6&style=flat" alt="priyansheechouhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansheechouhan" alt="priyansheechouhan" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently pursuing **M.Sc. in computer science**
 
 - 📫 How to reach me **priyansheec123@gmail.com**
 
