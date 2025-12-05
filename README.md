@@ -6,7 +6,7 @@
 </div>
 
 
-- 🌱 I’m currently pursuing **M.Sc. in computer science**
+- 🌱 I’m currently pursuing **M.Sc. in Computer Science**
 
 - 📫 How to reach me **priyansheec123@gmail.com**
 
